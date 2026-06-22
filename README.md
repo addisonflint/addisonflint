@@ -14,6 +14,12 @@
 
 ---
 
+### Featured Projects & Work
+* **[PickleTrack Web App](https://github.com/addisonflint/Dev-Project-Addison):** A three-page collegiate pickleball web application framework built using HTML, Bootstrap v5.3, and JavaScript/jQuery to log match scores and track tournament statistics.
+* **[GitHub Profile Page Source](https://github.com/addisonflint/addisonflint):** The repository and clean markdown source files behind this live portfolio website.
+
+---
+
 ### Awards & Experience
 
 #### Professional & Academic Highlights
