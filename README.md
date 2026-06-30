@@ -15,6 +15,8 @@
 ---
 
 ### Featured Projects & Work
+* **[Audit Escape Matrix Game](https://github.com/addisonflint/Bravo-WebGame):** A dynamic side-by-side split screen audit simulator built using HTML5, Bootstrap 5, and jQuery UI. Features a click-based concept testing framework, an interactive drag-and-drop accounting environment (filing W-2 documents into the IRS processing block), a live responsive risk metrics panel, and an infinite high-score progression pipeline tracking corporate firm promotions. 
+  * *Live Application:* [Play Audit Escape Matrix on GitHub Pages](https://addisonflint.github.io/Bravo-WebGame/)
 * **[PickleTrack Web App](https://github.com/addisonflint/Dev-Project-Addison):** A three-page collegiate pickleball web application framework built using HTML, Bootstrap v5.3, and JavaScript/jQuery to log match scores and track tournament statistics.
 * **[GitHub Profile Page Source](https://github.com/addisonflint/addisonflint):** The repository and clean markdown source files behind this live portfolio website.
 
